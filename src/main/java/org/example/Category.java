@@ -14,5 +14,4 @@ public class Category {
     public void setPromo(Promo promo) {
         this.promo = promo;
     }
-
 }
