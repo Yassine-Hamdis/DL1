@@ -42,7 +42,7 @@ public class Main {
         server2.add_Ticket(ticket2);
 
 
-        System.out.println("---------------Total price for each server--------------");
+        System.out.println("---------------Total price for each server---------------");
 
         System.out.println("server1 : Total outputs = " + server1.total_tickets_price());
         System.out.println("server2 : Total outputs = " + server2.total_tickets_price());
@@ -54,7 +54,7 @@ public class Main {
         ArrayList<Server> servers = new ArrayList<>();
         servers.add(server1);
         servers.add(server2);
-        System.out.println("---------------Top server--------------");
+        System.out.println("----------------Top server---------------");
         top_Server(servers);
 
 
