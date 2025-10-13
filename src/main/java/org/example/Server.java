@@ -65,6 +65,4 @@ public class Server {
         return sum;
     }
 
-
-
 }
