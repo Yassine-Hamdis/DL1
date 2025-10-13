@@ -1,9 +1,11 @@
-"# DL1 : HAMDIS Yassine"
-how to run the project :
-on your terminal, do :
-#######
+# DL1 : HAMDIS Yassine
+
+##  How to Run the Project
+
+On your terminal, do:
+
+```bash
 git clone https://github.com/Yassine-Hamdis/DL1.git
 cd DL1
 mvn clean install
-java -jar target/<file>.jar
-#######
+java -jar target/<your-app-name>.jar
