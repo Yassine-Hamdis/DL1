@@ -8,4 +8,4 @@ On your terminal, do:
 git clone https://github.com/Yassine-Hamdis/DL1.git
 cd DL1
 mvn clean install
-java -jar target/<your-app-name>.jar
+java -jar target/<app-name>.jar
