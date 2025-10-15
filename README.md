@@ -1,4 +1,3 @@
-# DL1 : HAMDIS Yassine
 
 ##  How to Run the Project
 
